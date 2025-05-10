@@ -34,5 +34,7 @@ streamlit run app.py
 
 @ Author
 Dipali Khatua
+
 Aspiring Data Scientist
+
 Connect: https://www.linkedin.com/in/dipalikhatua/
