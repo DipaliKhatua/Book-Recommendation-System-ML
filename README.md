@@ -25,7 +25,6 @@ Dataset: https://www.kaggle.com/datasets/saurabhbagchi/books-dataset
 1. **Clone the Repository:**
    ```sh
    git clone https://github.com/DipaliKhatua/Book-Recommendation-System-ML
-   cd books-recommender
 2.  Install Dependencies:
 pip install -r requirements.txt
 

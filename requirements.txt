@@ -2,5 +2,5 @@
 streamlit
 numpy
 pandas
-matplotlib.pyplot 
-sklearn.neighbors
+matplotlib 
+scikit-learn
