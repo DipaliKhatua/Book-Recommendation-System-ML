@@ -70,3 +70,7 @@ if st.button('Show Recommendation'):
     with col5:
         st.text(recommended_books[5])
         st.image(poster_url[5])
+
+# Footer message
+    st.markdown("---")
+    st.markdown("**Hey, based on your selection I have recommended you these books. Enjoy!**  \n@ Dipali")
